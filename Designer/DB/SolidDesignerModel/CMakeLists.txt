@@ -100,7 +100,6 @@ endif()
 target_link_libraries(SolidDesignerModel PRIVATE
     AliceBasicTool
     AliceFoundation
-	AliceDatabaseInterface
 	AliceModelInterface
 )
 
