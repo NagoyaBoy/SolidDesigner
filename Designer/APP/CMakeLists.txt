@@ -247,7 +247,6 @@ if(WIN32)
         AliceCoreApplicationInterface
         AliceUiFrameWork
         AliceBasicTool
-        AliceComponentSystem
         AliceLaunchInterface
     )
 else()
@@ -257,7 +256,6 @@ else()
         AliceCoreApplicationInterface
         AliceUiFrameWork
         AliceBasicTool
-        AliceComponentSystem
         AliceLaunchInterface
     )
 endif()
